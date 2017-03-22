@@ -23,9 +23,9 @@ def newCompare(x , y):
 print newCompare(5,20)
 
 
-##########
-#  Loops #
-##########
+#########
+# Loops #
+#########
 # Basic While Loop
 m = 0
 while (m < 5):
